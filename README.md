@@ -41,9 +41,9 @@ We would like to acknowledge the following individuals for their contributions t
 
 - [K.V.H. Kashyap](https://github.com/kashyap09-01) (Project Team Lead)
 - [J. Sai Rithwik](https://github.com/rithwik318)
-- [Pranav Raj B](https://github.com/)
+- [Pranav Raj B](https://github.com/PranavRajB)
 - [V. Bhanu Sai](https://github.com/vbhanusai)
-- [M. Shyam Kumar](https://github.com/)
+- [M. Shyam Kumar](https://github.com/shyam31419)
 
 Thank you for your valuable contributions and support!
 
