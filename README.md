@@ -20,7 +20,7 @@ Based on the findings, several recommendations can be made to address air pollut
 
 ## Repository Structure
 - `data/`: Contains the dataset used for analysis (Excel files).
-- `code/`: Includes the R program file(s) with the code for data preprocessing, exploratory data analysis, clustering, and predictive modeling.
+- `aqi_analysis.r`: Includes the R program file(s) with the code for data preprocessing, exploratory data analysis, clustering, and predictive modeling.
 - `plots/`: Contains the generated plots and visualizations.
 - `README.md`: The README file providing an overview of the project.
 
@@ -28,11 +28,24 @@ Based on the findings, several recommendations can be made to address air pollut
 1. Clone the repository to your local machine.
 2. Install R and the required packages mentioned in the code.
 3. Place the dataset files in the `data/` directory.
-4. Open the R program file(s) in the `code/` directory to run the analysis.
+4. Open the R program file i.e., the `aqi_analysis.r` directory to run the analysis.
 5. Explore the generated plots and visualizations in the `plots/` directory.
 6. Customize the code and analysis as per your requirements.
+7. Further details are present in the `Hyderabad AQI Analysis Report.pdf` and `Hyderabad AQI Analysis Presentation.pdf`.
 
 Feel free to contribute to the repository by providing enhancements, bug fixes, or additional analyses.
+
+## Acknowledgments
+
+We would like to acknowledge the following individuals for their contributions to this project:
+
+- [K.V.H. Kashyap](https://github.com/kashyap09-01) (Project Team Lead)
+- [J. Sai Rithwik]
+- [Pranav Raj B]
+- [M. Shyam Kumar]
+
+Thank you for your valuable contributions and support!
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
