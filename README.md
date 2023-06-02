@@ -40,9 +40,10 @@ Feel free to contribute to the repository by providing enhancements, bug fixes, 
 We would like to acknowledge the following individuals for their contributions to this project:
 
 - [K.V.H. Kashyap](https://github.com/kashyap09-01) (Project Team Lead)
-- [J. Sai Rithwik]
-- [Pranav Raj B]
-- [M. Shyam Kumar]
+- [J. Sai Rithwik](https://github.com/rithwik318)
+- [Pranav Raj B](https://github.com/)
+- [V. Bhanu Sai](https://github.com/vbhanusai)
+- [M. Shyam Kumar](https://github.com/)
 
 Thank you for your valuable contributions and support!
 
